@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "vessel-motion-pi",
   "channel": "stable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "architecture": "aarch64",
-  "url": "https://raw.githubusercontent.com/barba-productions/vessel-motion-pi-OTA/main/stable/vessel-motion-pi-0.1.1.tar.gz",
-  "size": 516845,
-  "sha256": "712f7489ebc05961d9172c3d85f781f805423dc520a38f2cf468b77a7344b036"
+  "url": "https://raw.githubusercontent.com/barba-productions/vessel-motion-pi-OTA/main/stable/vessel-motion-pi-0.1.2.tar.gz",
+  "size": 517590,
+  "sha256": "2ac532c639a9b6cbe3fc67793c859034c2f0c2f7e54f734f0417312e83ee8966"
 }
